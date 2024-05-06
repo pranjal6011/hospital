@@ -1,0 +1,24 @@
+[33m5b706fa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to HEAD^
+[33mfcae050[m HEAD@{1}: commit: Sells by medicine name search
+[33m5b706fa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{2}: commit: Auth changed
+[33m6645e18[m HEAD@{3}: commit: Start command change
+[33m128c012[m HEAD@{4}: commit: All the task are running async
+[33m0286ac0[m HEAD@{5}: commit: Appointment Confirmation added from doctor end
+[33meb9ece0[m HEAD@{6}: commit: Added forgot password
+[33m093a850[m HEAD@{7}: commit: Bill pdf mailed to buyer and also appointment details added
+[33m35171e6[m HEAD@{8}: commit: Changes in PDF
+[33m0ac95da[m HEAD@{9}: commit: Bill Creating
+[33m4100239[m HEAD@{10}: pull --tags origin main: Merge made by the 'ort' strategy.
+[33m9a7d747[m HEAD@{11}: commit: Able to download bill
+[33m0d27783[m HEAD@{12}: commit: Doctor can make patient report and staff can make bill of selling medicine
+[33m806e71b[m HEAD@{13}: pull --tags origin main: Merge made by the 'ort' strategy.
+[33m935ffdc[m HEAD@{14}: commit: Added patinet report and many more
+[33m40c2154[m HEAD@{15}: commit (merge): Merge branch 'main' of https://github.com/Pranjal23a/Major
+[33m9c68975[m HEAD@{16}: commit: Added Search,Add,Remove functionality in Inventory
+[33mdf951fc[m HEAD@{17}: commit: Static css files added dynamically
+[33m377a4e0[m HEAD@{18}: commit: Done with Add inventory
+[33md3a550e[m HEAD@{19}: commit: Added admin and staff authentication
+[33m228dda1[m HEAD@{20}: commit: views added
+[33m6a4dc2e[m HEAD@{21}: commit: More files added
+[33mb7e963b[m HEAD@{22}: commit: Main file
+[33mbc64e4f[m HEAD@{23}: commit (initial): Project Setup done
